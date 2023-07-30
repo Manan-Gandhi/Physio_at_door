@@ -1,0 +1,65 @@
+<?php include 'header.php';
+?>
+
+<section class="page-title text-center" style="background-image:url(assets/images/background/3.jpg);">
+    <div class="container">
+        <div class="title-text">
+            <h1>Edit Media Posts</h1>
+            <ul class="title-menu clearfix">
+                <li>
+                    <a href="home.php">home &nbsp;/</a>
+                </li>
+                <li>Edit Media posts</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+
+<section class="section contact">
+    <!-- container start -->
+    <div class="container">
+        <div class="row">
+            
+            <div class="col-md-12">
+                <div class="contact-form">
+                    <!-- contact form start -->
+                    <form action="#" class="row" data-parsley-validate="">
+                        <!-- name -->
+                        <div class="col-md-12">
+                            <label>Title:</label>
+                            <input type="text" name="name" class="form-control main" placeholder="Title for tip..." required>
+                        </div>
+
+                        <div class="col-md-12 ">
+                            <label name="image_tips">Upload Media :</label>
+                            <input type="file" name="image_tips" value="Upload image" required><br>
+                        </div>
+                        
+                       
+                       
+                        <!-- message -->
+                        <div class="col-md-12">
+                            <label>Description:</label>
+                            <textarea name="message" rows="10" class="form-control main" placeholder="description" required>This is Very Helpful.....</textarea>
+                        </div>
+                        <!-- submit button -->
+                        <div class="col-md-12 text-right">
+                            <button class="btn btn-style-one" type="submit">Save</button>
+
+
+                            
+                        </div>
+                    </form>
+                    <!-- contact form end -->
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- container end -->
+</section>
+
+
+<?php include 'footer.php';
+?>
