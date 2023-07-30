@@ -27,10 +27,10 @@ It is a Web-Site for search best physiotherapist to recover patient faster. It i
 
 8.After creating database name click on import.
 
-9.Browse the file in directory(Website\database\website.sql)
+9.Browse the file in directory(Physio_at_door\common\physioatdoor.sql)
 
 10.After importing successfully.
 
-11.Open any browser and type http://localhost/Website.
+11.Open any browser and type http://localhost/Physio_at_door.
 
 12.First register and then login.
