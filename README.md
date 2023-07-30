@@ -1,13 +1,11 @@
 # Physio_at_door
-In this web portal customer can hire a physiotherapist for any types of exercises like neck pain, knee pain, shoulder pain and many more.
+In this web portal customer can hire a Physiotherapist for any type of exercise like neck pain, knee pain, shoulder pain and many more.
 
-It can verified profile with Authentic, Genuine and Reliable feedback which helps to you for finding your solution of problems easily. 
+It have verified profile with Authentic, Genuine and Reliable feedback which can help you to find your solution for any Physio problem in easy way. 
 
-Pateint can find easily physiotherapist nearby their home. 
+Pateint can easily find physiotherapist nearby their home. 
 
-Introduction :
-
-It is a Web-Site for search best physiotherapist to recover patient faster. It is very helpful to those patient who are not able to move . The patient can book an appointment with  physiotherapist.
+It is a Web-Site for searching best physiotherapist to recover your pain faster. It is very helpful for those patient who are unable to move. The patient can book an appointment with physiotherapist very easily.
 
 # Installation
 
