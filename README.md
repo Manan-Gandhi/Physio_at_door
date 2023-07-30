@@ -23,7 +23,7 @@ It is a Web-Site for search best physiotherapist to recover patient faster. It i
 
 6.Click on new at side navbar.
 
-7.Give a database name as (website) hit on create button.
+7.Give a database name as (physioatdoor) hit on create button.
 
 8.After creating database name click on import.
 
