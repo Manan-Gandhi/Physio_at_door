@@ -15,7 +15,7 @@ It is a Web-Site for searching best physiotherapist to recover your pain faster.
 
 3.Download project from github
 
-4.Extract files in C:\xampp\htdocs and rename the downloaded folder as the Website.
+4.Extract files in C:\xampp\htdocs and rename the downloaded folder as the physio_at_door.
 
 5.Open link localhost/phpmyadmin
 
